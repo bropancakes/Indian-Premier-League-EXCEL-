@@ -58,6 +58,7 @@ In the high-stakes world of sports analytics, raw data is often too messy to pro
 
 ## 📸 Dashboard Preview
 
+<img width="1859" height="1041" alt="image" src="https://github.com/user-attachments/assets/fabf7eb2-f11d-444f-90bc-3874fdf8fed5" />
 
 
 ---
